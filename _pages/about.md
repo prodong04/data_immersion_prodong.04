@@ -4,8 +4,11 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+> 언젠가는 연세대학교와 고려대학교에 이동렬의 이름으로 건물을 짓는 것
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+# Path
+1.둔촌초등학교 졸
+2.동북중학교 졸
+3.동북고등학교 졸
+4.고려대학교 건축사회환경공학부 1년 중퇴
+5.연세대학교 산업공학과 재학중
