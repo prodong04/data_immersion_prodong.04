@@ -86,7 +86,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-octicons
-  - jekyll-toc
+  - jekyll-toc 
   - jekyll-twitter-plugin
   - jekyll-relative-links
   - jekyll-seo-tag
